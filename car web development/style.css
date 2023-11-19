@@ -1,0 +1,110 @@
+body {
+    margin: 0%;
+}
+
+
+h1 {
+    border: 0%;
+    font-family: 'Foldit', sans-serif;
+    font-family: 'Martian Mono', monospace;
+    font-size: 3rem;
+    height: 80px;
+    width: 100%;
+    color: white;
+    display: inline-block;
+    text-align: center;
+    font-weight: 900;
+    box-shadow: #131A22;
+
+}
+
+header {
+    background-color: hsla(261, 80%, 60%, 1); 
+    opacity: 75%;
+}
+
+.card {
+ background-color: rgb(0, 0, 0);
+ height: 310px;
+ width: 250px;
+ border-color: aliceblue;
+ display: inline-flex;
+ margin: 30px;
+ margin-top: 10%;
+ opacity: 70%;
+}
+
+#div { 
+    margin-left: 20%;
+
+}
+
+
+#first {
+    border-radius: 8%;
+    display: inline-block;
+    position: relative;
+    top: 97px;
+
+}
+
+#second {
+    border-radius: 8%;
+    display: inline-block;
+}
+
+#third {
+    border-radius: 8%;
+    display: inline-block;
+    position: relative;
+    top: 80px;
+}
+
+#lambo {
+    height: 150px;
+    width: 100%;
+    border-radius: 8%;
+    opacity: 100%;
+    display: block;
+
+}
+
+#bugatti {
+    height: 150px;
+    width: 100%;
+    border-radius: 8%;
+    opacity: 100%;
+    display: block;
+}
+
+#regera {
+    height: 150px;
+    width: 100%; 
+    border-radius: 8%;
+    opacity: 100%;
+    display: block;
+}
+
+
+p {
+    display: block;
+    width: 100%;
+    color: whitesmoke;
+    text-align: center;
+    height: 160px;
+}
+
+
+.footer {
+    background-color: #131A22;
+    margin-top: 300px;
+    height: 100px;
+    width: 100%;
+    color: rgb(208, 195, 171);
+    text-align: center;
+    padding-top: 60px;
+}
+
+
+
+
